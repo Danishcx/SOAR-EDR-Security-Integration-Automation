@@ -88,13 +88,13 @@ This project automates threat detection and response using **Tines** as the SOAR
 ## 📷 Output Screenshots
 ✅ [LaZagne Execution Detection](https://github.com/Danishcx/SOAR-EDR-Security-Integraion-Automation/blob/main/Output/Detection.png) 
 
-✅ [Slack Alert](https://github.com/xAHIINX00/SOAR-EDR-Automation/blob/main/Output/Slack.png)
+✅ [Slack Alert](https://github.com/Danishcx/SOAR-EDR-Security-Integraion-Automation/blob/main/Output/Slack.png)
 
-✅ [Email Alert](https://github.com/xAHIINX00/SOAR-EDR-Automation/blob/main/Output/Email.png) 
+✅ [Email Alert](https://github.com/Danishcx/SOAR-EDR-Security-Integraion-Automation/blob/main/Output/Email.png) 
 
-✅ [User Prompt for Isolation](https://github.com/xAHIINX00/SOAR-EDR-Automation/blob/main/Output/User-Prompt.png) 
+✅ [User Prompt for Isolation](https://github.com/Danishcx/SOAR-EDR-Security-Integraion-Automation/blob/main/Output/User-Prompt.png) 
 
-✅ [Machine Isolation Confirmation](https://github.com/xAHIINX00/SOAR-EDR-Automation/blob/main/Output/ISOLATION-STATUS.png)
+✅ [Machine Isolation Confirmation](https://github.com/Danishcx/SOAR-EDR-Security-Integraion-Automation/blob/main/Output/ISOLATION-STATUS.png)
 
 ## 🔥 Future Improvements
 🔹 **VirusTotal Integration** – For automatic hash lookups.  
