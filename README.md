@@ -86,7 +86,7 @@ This project automates threat detection and response using **Tines** as the SOAR
 ✅ Confirm **Lima Charlie successfully isolates** the system.
 
 ## 📷 Output Screenshots
-✅ [LaZagne Execution Detection](https://github.com/xAHIINX00/SOAR-EDR-Automation/blob/main/Output/Detection.png) 
+✅ [LaZagne Execution Detection](https://github.com/Danishcx/SOAR-EDR-Security-Integraion-Automation/blob/main/Output/Detection.png) 
 
 ✅ [Slack Alert](https://github.com/xAHIINX00/SOAR-EDR-Automation/blob/main/Output/Slack.png)
 
