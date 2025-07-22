@@ -111,7 +111,7 @@ This project automates threat detection and response using **Tines** as the SOAR
 🚀 **Feel free to contribute or reach out**:  
 🔗 **GitHub**: [Danishcx](https://github.com/Danishcx)  
 📧 **Email**: [everydaydany@gmail.com](mailto:everydaydany@gmail.com)  
-💼 **LinkedIn**: [Danish](everydaydany@gmail.com/) 
+💼 **LinkedIn**: [Danish](https://www.linkedin.com/in/danish-u-544061230/) 
 
 ---
 🚀 **Built with ❤️ by Danish**
