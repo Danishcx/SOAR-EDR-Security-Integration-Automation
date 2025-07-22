@@ -59,7 +59,7 @@ This project automates threat detection and response using **Tines** as the SOAR
 
 ### 4️⃣ Creating Detection & Response Rules
 📌 **Define a rule in Lima Charlie to detect LaZagne execution**:
-🔗 [`lima_charlie_D&R_rule`](https://github.com/xAHIINX00/SOAR-EDR-Automation/blob/main/Rules/lima_charlie_D%26R_rule.json)
+🔗 [`lima_charlie_D&R_rule`](https://github.com/Danishcx/SOAR-EDR-Security-Integraion-Automation/blob/main/Rules/lima_charlie_D%26R_rule.json)
 
 ### 5️⃣ Setting Up Slack & Email Notifications
 🔹 **Slack Setup**: Create an channel in Slack, generate a bot token, and add it to your workspace.  
@@ -75,8 +75,7 @@ This project automates threat detection and response using **Tines** as the SOAR
    - 🔄 Prompt user for machine isolation.
    - 🛡 If confirmed, trigger Lima Charlie to isolate the machine.
      
-4️. JSON playbook file: [`tines_playbook`](https://github.com/xAHIINX00/SOAR-EDR-Automation/blob/main/playbook/tines_playbook.json)
-![Tines-Automation](https://github.com/user-attachments/assets/4bb227bb-f7cc-4e5f-b3d5-d4f1d1e7cc23)
+4️. JSON playbook file: [`tines_playbook`](https://github.com/Danishcx/SOAR-EDR-Security-Integraion-Automation/blob/main/Playbook/tines_playbook.json)
 
 ### 7️⃣ Testing the Workflow
 ✅ Execute **LaZagne** again.  
